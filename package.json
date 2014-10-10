@@ -1,0 +1,24 @@
+{
+  "name": "wye",
+  "version": "0.1.0",
+  "description": "Pipe Arrays of Streams",
+  "main": "wye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mootzville/wye"
+  },
+  "keywords": [
+    "stream",
+    "pipe",
+    "array"
+  ],
+  "author": "Levi Mootz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mootzville/wye/issues"
+  },
+  "homepage": "https://github.com/mootzville/wye"
+}
